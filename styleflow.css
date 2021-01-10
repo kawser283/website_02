@@ -1,0 +1,287 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.mid-content{
+    max-width: 1000px;
+	height: auto;
+	position: relative;
+}
+img {
+	width: 400px;
+	margin: auto;
+}
+/* First Header banner */
+.bothsection{
+    clear: both;
+    padding: 100px 0;
+}
+.tow-same-text{
+    width: 42%;
+    float: left;
+    margin-right: 2%;
+}
+.tow-same-text h1 {
+	font-size: 45px;
+	color: #333333;
+}
+.tow-same-text p {
+    margin: 40px 0;
+    font-size: 18px;
+	color: #565048;
+}
+.hover-button {
+	text-decoration: none;
+	background: #237be5;
+	color: #fff;
+	padding: 15px 10px;
+    border-radius: 5px;
+    margin-right: 20px;
+    font-weight: bold;
+}
+.none-button {
+	color: #237be5;
+	text-decoration: none;
+	font-weight: bold;
+}
+.img-link{
+    width: 56%;
+    float: left;
+    text-align: center;
+}
+
+/* Logo Section */
+.logo-section {
+	padding: 26px 0;
+	margin-top: 289px;
+	text-align: center;
+	background: #f1f4fb;
+}
+.logo-section h2 {
+	color: #333333;
+}
+.logo-section ul{
+    display: inline-block;
+}
+.logo-section ul li{ 
+    display: inline-block;
+}
+.logo-section ul li img {
+	width: 80px;
+	padding: 15px 20px;
+}
+/* Main Title */
+.main-title {
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 40px;
+}
+.main-title h1 {
+	color: #333333;
+	font-size: 35px;
+}
+.main-title p {
+	width: 50%;
+	margin: 20px auto;
+	color: #565048;
+}
+/* Img about */
+.img-about{
+    clear: both;
+    padding: 100px 0;
+}
+
+.left-img{
+    width: 58%;
+    float: left;
+}
+.left-img img{}
+
+.about-details {
+	width: 42%;
+	float: left;
+	margin: 48px 0;
+}
+.about-details h1 {
+	font-size: 38px;
+	color: #333333;
+}
+.about-details p {
+	font-size: 18px;
+	padding: 20px 0;
+	color: #565048;
+	line-height: 1.6em;
+}
+
+/* About Img */
+.about-img{
+    padding: 60px 0;
+}
+
+
+
+.right-img{
+    width: 50%;
+    float: left;
+}
+.right-img img {
+	margin-left: 160px;
+}
+
+/* Big Img */
+.img-big{
+    text-align: center;
+}
+
+
+/* Card About */
+.about-card{
+	padding: 100px 0;
+	position: relative;
+	clear: both;
+}
+.about-details h1 {
+	font-size: 35px;
+}
+.about-card h1 span{
+	background: #cbeafe;
+}
+.about-card h3 {
+	float: left;
+	width: 50%;
+	font-size: 26px;
+	color: #333333;
+}
+.about-card h3 span{
+	width: 100%;
+	display: block;
+	font-size: 45px;
+}
+.card-about{
+	float: left;
+	width: 50%;
+}
+
+.extra-div{
+	text-align: center;
+	border: 5px solid #eef2f5;
+	padding: 25px;
+	border-radius: 10px;
+}
+.card-img {
+	position: absolute;
+	right: -90px;
+	top: 0;
+}
+.card-img img {
+	width: 83px;
+	margin-top: 30px;
+}
+.card-title {
+	width: 450px;
+	height: 300px;
+}
+.card-title h2 {
+	font-size: 33px;
+	margin-top: 30px;
+	color: #333333;
+}
+.card-title p {
+	font-size: 25px;
+	margin-top: 25px;
+	color: #565048;
+}
+
+.card-right-img img {
+	width: 83px;
+}
+.card-right-img {
+	float: left;
+	width: 50%;
+	margin-top: 73px;
+}
+.left-card-title {
+	margin-left: 587px;
+	width: 50%;
+	position: absolute;
+	top: 181px;
+}
+.left-card-title h1 {
+	color: #333333;
+	font-size: 35px;
+}
+.about-card h1 span {
+	background: #cbeafe;
+}
+.left-card-title p {
+	color: #565048;
+	margin: 20px 0;
+	font-size: 20px;
+	line-height: 1.6em;
+}
+.main-title2{
+	margin-top: 300px;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 200px;
+	color: #333333;
+}
+
+.slider-image{
+	clear: both;
+	padding: 100px 0;
+}
+.slider-imgs {
+	float: left;
+	width: 32%;
+	margin-right: 1%;
+	margin-bottom: 20px;
+	text-align: center;
+	margin-top: 43px;
+}
+.slider-image img{
+	width: 100px;
+}
+.slider-imgs p {
+	margin-top: 20px;
+	font-size: 18px;
+}
+/* Tow Header Section */
+.towheader-section {
+	color: #fff;
+	background: #237be5;
+	padding-top: 50px;
+	padding-bottom: 378px;
+}
+.towheader-section .about-img h1{
+	color: #fff;
+}
+.towheader-section .about-img p{
+	color: #fff;
+}
+.towheader-section .about-img a{
+	color: #fff;
+}
+
+/* Fotter Section */
+.fotter-section {
+	padding: 20px 0;
+	background: #f1f4fb;
+	margin-top: 280px;
+}
+.fotter-section h1 {
+	font-size: 50px;
+}
+.fotter-section ul {
+	display: inline-block;
+	margin: 10px 421px;
+	width: 272px;
+}
+.fotter-section ul li {
+	display: inline-block;
+	margin: 0 auto;
+	padding: 0 12px;
+}
+.fotter-section ul li img {
+	width: 50px;
+}
